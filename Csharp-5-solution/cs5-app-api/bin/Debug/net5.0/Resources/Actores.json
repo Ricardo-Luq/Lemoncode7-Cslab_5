@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Jack",
+    "Apellido": "Nicholson",
+    "Peliculas": [
+      {
+        "Id": 1,
+        "Titulo": "El resplandor",
+        "FechaPublicacion": 1980
+      },
+      {
+        "Id": 2,
+        "Titulo": "Mejor... imposible",
+        "FechaPublicacion": 1997
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Nombre": "Tom",
+    "Apellido": "Hanks",
+    "Peliculas": [
+      {
+        "Id": 1,
+        "Titulo": "Forrest Gump",
+        "FechaPublicacion": 1994
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Nombre": "Anthony",
+    "Apellido": "Hopkins",
+    "Peliculas": [
+      {
+        "Id": 1,
+        "Titulo": "El silencio de los corderos",
+        "FechaPublicacion": 1991
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Nombre": "Meryl",
+    "Apellido": "Streep",
+    "Peliculas": [
+      {
+        "Id": 1,
+        "Titulo": "Memorias de Africa",
+        "FechaPublicacion": 1985
+      },
+      {
+        "Id": 1,
+        "Titulo": "Los puentes de Madison",
+        "FechaPublicacion": 1995
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "Nombre": "string",
+    "Apellido": "string",
+    "Peliculas": [
+      {
+        "Id": 0,
+        "Titulo": "string",
+        "FechaPublicacion": 0
+      }
+    ]
+  }
+]

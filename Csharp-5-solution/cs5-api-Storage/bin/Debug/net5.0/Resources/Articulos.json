@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Camiseta Deportiva",
+    "Descripcion": "Estas camisetas son especiales para actividades físicas, suelen ser de materiales sintéticos delgados que transpiran para mantener a las personas frescas, permitiendo que su rendimiento físico aumente",
+    "FechaEntrada": "28/02/2023",
+    "Cantidad": 100
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mV2ORccShDdboiQC7/EKV91G/bolHOSPag5oKz1E5eirOo6RJ6ynHaG2JHdNz+98PlgO9E7BQfMu5d+3BG4ZMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-api-Storage\\cs5-api-Storage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\I44105\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\I44105\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\I44105\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\I44105\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\I44105\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\I44105\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\I44105\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

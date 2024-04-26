@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20E676EB-8832-419F-958B-A7FECE71A8E7}|cs5-api-Storage\\cs5-api-Storage.csproj|c:\\users\\i44105\\downloads\\lemoncode\\03 c#\\testing\\csharp-5-solution\\cs5-api-storage\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E676EB-8832-419F-958B-A7FECE71A8E7}|cs5-api-Storage\\cs5-api-Storage.csproj|solutionrelative:cs5-api-storage\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E676EB-8832-419F-958B-A7FECE71A8E7}|cs5-api-Storage\\cs5-api-Storage.csproj|c:\\users\\i44105\\downloads\\lemoncode\\03 c#\\testing\\csharp-5-solution\\cs5-api-storage\\repositories\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E676EB-8832-419F-958B-A7FECE71A8E7}|cs5-api-Storage\\cs5-api-Storage.csproj|solutionrelative:cs5-api-storage\\repositories\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E676EB-8832-419F-958B-A7FECE71A8E7}|cs5-api-Storage\\cs5-api-Storage.csproj|c:\\users\\i44105\\downloads\\lemoncode\\03 c#\\testing\\csharp-5-solution\\cs5-api-storage\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E676EB-8832-419F-958B-A7FECE71A8E7}|cs5-api-Storage\\cs5-api-Storage.csproj|solutionrelative:cs5-api-storage\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B50C32-95D9-48C6-BFB0-459EE42003B7}|cs5-app-api\\cs5-app-api.csproj|c:\\users\\i44105\\downloads\\lemoncode\\03 c#\\testing\\csharp-5-solution\\cs5-app-api\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B50C32-95D9-48C6-BFB0-459EE42003B7}|cs5-app-api\\cs5-app-api.csproj|solutionrelative:cs5-app-api\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B50C32-95D9-48C6-BFB0-459EE42003B7}|cs5-app-api\\cs5-app-api.csproj|C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B50C32-95D9-48C6-BFB0-459EE42003B7}|cs5-app-api\\cs5-app-api.csproj|solutionrelative:cs5-app-api\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E676EB-8832-419F-958B-A7FECE71A8E7}|cs5-api-Storage\\cs5-api-Storage.csproj|c:\\users\\i44105\\downloads\\lemoncode\\03 c#\\testing\\csharp-5-solution\\cs5-api-storage\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E676EB-8832-419F-958B-A7FECE71A8E7}|cs5-api-Storage\\cs5-api-Storage.csproj|solutionrelative:cs5-api-storage\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E676EB-8832-419F-958B-A7FECE71A8E7}|cs5-api-Storage\\cs5-api-Storage.csproj|c:\\users\\i44105\\downloads\\lemoncode\\03 c#\\testing\\csharp-5-solution\\cs5-api-storage\\resources\\articulos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20E676EB-8832-419F-958B-A7FECE71A8E7}|cs5-api-Storage\\cs5-api-Storage.csproj|solutionrelative:cs5-api-storage\\resources\\articulos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B50C32-95D9-48C6-BFB0-459EE42003B7}|cs5-app-api\\cs5-app-api.csproj|C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\contracts\\iactorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B50C32-95D9-48C6-BFB0-459EE42003B7}|cs5-app-api\\cs5-app-api.csproj|solutionrelative:cs5-app-api\\contracts\\iactorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E676EB-8832-419F-958B-A7FECE71A8E7}|cs5-api-Storage\\cs5-api-Storage.csproj|c:\\users\\i44105\\downloads\\lemoncode\\03 c#\\testing\\csharp-5-solution\\cs5-api-storage\\contracts\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E676EB-8832-419F-958B-A7FECE71A8E7}|cs5-api-Storage\\cs5-api-Storage.csproj|solutionrelative:cs5-api-storage\\contracts\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B50C32-95D9-48C6-BFB0-459EE42003B7}|cs5-app-api\\cs5-app-api.csproj|C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\resources\\actores.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1B50C32-95D9-48C6-BFB0-459EE42003B7}|cs5-app-api\\cs5-app-api.csproj|solutionrelative:cs5-app-api\\resources\\actores.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E676EB-8832-419F-958B-A7FECE71A8E7}|cs5-api-Storage\\cs5-api-Storage.csproj|c:\\users\\i44105\\downloads\\lemoncode\\03 c#\\testing\\csharp-5-solution\\cs5-api-storage\\cs5-api-storage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20E676EB-8832-419F-958B-A7FECE71A8E7}|cs5-api-Storage\\cs5-api-Storage.csproj|solutionrelative:cs5-api-storage\\cs5-api-storage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B50C32-95D9-48C6-BFB0-459EE42003B7}|cs5-app-api\\cs5-app-api.csproj|C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B50C32-95D9-48C6-BFB0-459EE42003B7}|cs5-app-api\\cs5-app-api.csproj|solutionrelative:cs5-app-api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B50C32-95D9-48C6-BFB0-459EE42003B7}|cs5-app-api\\cs5-app-api.csproj|C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\cs5-app-api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F1B50C32-95D9-48C6-BFB0-459EE42003B7}|cs5-app-api\\cs5-app-api.csproj|solutionrelative:cs5-app-api\\cs5-app-api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B50C32-95D9-48C6-BFB0-459EE42003B7}|cs5-app-api\\cs5-app-api.csproj|C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\cs5-app-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1B50C32-95D9-48C6-BFB0-459EE42003B7}|cs5-app-api\\cs5-app-api.csproj|solutionrelative:cs5-app-api\\cs5-app-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-api-Storage\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "cs5-api-Storage\\Models\\Articulo.cs",
+              "ToolTip": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-api-Storage\\Models\\Articulo.cs",
+              "RelativeToolTip": "cs5-api-Storage\\Models\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:12:56.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Articulos.json",
+              "DocumentMoniker": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-api-Storage\\Resources\\Articulos.json",
+              "RelativeDocumentMoniker": "cs5-api-Storage\\Resources\\Articulos.json",
+              "ToolTip": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-api-Storage\\Resources\\Articulos.json",
+              "RelativeToolTip": "cs5-api-Storage\\Resources\\Articulos.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T09:08:53.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-api-Storage\\Repositories\\ArticuloRepository.cs",
+              "RelativeDocumentMoniker": "cs5-api-Storage\\Repositories\\ArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-api-Storage\\Repositories\\ArticuloRepository.cs",
+              "RelativeToolTip": "cs5-api-Storage\\Repositories\\ArticuloRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAMwDUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:28:32.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActorController.cs",
+              "DocumentMoniker": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\Controllers\\ActorController.cs",
+              "RelativeDocumentMoniker": "cs5-app-api\\Controllers\\ActorController.cs",
+              "ToolTip": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\Controllers\\ActorController.cs",
+              "RelativeToolTip": "cs5-app-api\\Controllers\\ActorController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwCAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:49:45.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-api-Storage\\Startup.cs",
+              "RelativeDocumentMoniker": "cs5-api-Storage\\Startup.cs",
+              "ToolTip": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-api-Storage\\Startup.cs",
+              "RelativeToolTip": "cs5-api-Storage\\Startup.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wCYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:12:46.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-api-Storage\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "cs5-api-Storage\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-api-Storage\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "cs5-api-Storage\\Controllers\\ArticuloController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAmwDIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:35:01.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-api-Storage\\Contracts\\IArticuloRepository.cs",
+              "RelativeDocumentMoniker": "cs5-api-Storage\\Contracts\\IArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-api-Storage\\Contracts\\IArticuloRepository.cs",
+              "RelativeToolTip": "cs5-api-Storage\\Contracts\\IArticuloRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:19:36.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\Models\\Pelicula.cs",
+              "RelativeDocumentMoniker": "cs5-app-api\\Models\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\Models\\Pelicula.cs",
+              "RelativeToolTip": "cs5-app-api\\Models\\Pelicula.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:28:36.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IActorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\Contracts\\IActorRepository.cs",
+              "RelativeDocumentMoniker": "cs5-app-api\\Contracts\\IActorRepository.cs",
+              "ToolTip": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\Contracts\\IActorRepository.cs",
+              "RelativeToolTip": "cs5-app-api\\Contracts\\IActorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:38:24.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Actores.json",
+              "DocumentMoniker": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\Resources\\Actores.json",
+              "RelativeDocumentMoniker": "cs5-app-api\\Resources\\Actores.json",
+              "ToolTip": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\Resources\\Actores.json",
+              "RelativeToolTip": "cs5-app-api\\Resources\\Actores.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T11:03:26.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cs5-api-Storage",
+              "DocumentMoniker": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-api-Storage\\cs5-api-Storage.csproj",
+              "RelativeDocumentMoniker": "cs5-api-Storage\\cs5-api-Storage.csproj",
+              "ToolTip": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-api-Storage\\cs5-api-Storage.csproj",
+              "RelativeToolTip": "cs5-api-Storage\\cs5-api-Storage.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T09:19:06.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "cs5-app-api.csproj",
+              "DocumentMoniker": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\cs5-app-api.csproj",
+              "RelativeDocumentMoniker": "cs5-app-api\\cs5-app-api.csproj",
+              "ToolTip": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\cs5-app-api.csproj",
+              "RelativeToolTip": "cs5-app-api\\cs5-app-api.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T10:56:36.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\Startup.cs",
+              "RelativeDocumentMoniker": "cs5-app-api\\Startup.cs",
+              "ToolTip": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\Startup.cs",
+              "RelativeToolTip": "cs5-app-api\\Startup.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:45:43.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cs5-app-api",
+              "DocumentMoniker": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\cs5-app-api.csproj",
+              "RelativeDocumentMoniker": "cs5-app-api\\cs5-app-api.csproj",
+              "ToolTip": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-5-solution\\cs5-app-api\\cs5-app-api.csproj",
+              "RelativeToolTip": "cs5-app-api\\cs5-app-api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T10:42:40.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
